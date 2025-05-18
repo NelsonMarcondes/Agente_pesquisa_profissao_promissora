@@ -1,5 +1,4 @@
-# Agente de pesquisa profissão promissora
-O projeto "Agente_pesquisa_profissao_promissora" oferece aos jovens uma ferramenta dinâmica e envolvente para explorar seus talentos e aptidões. Este projeto se propõe a ser um guia nessa jornada, utilizando uma abordagem que combina informação, interatividade e uma linguagem que dialoga diretamente com o universo jovem.
+O projeto "Descubra o teu Superpoder" oferece aos jovens uma ferramenta dinâmica e envolvente para explorar seus talentos e aptidões. Este projeto se propõe a ser um guia nessa jornada, utilizando uma abordagem que combina informação, interatividade e uma linguagem que dialoga diretamente com o universo jovem.
 O projeto surge a necessidade de oferecer aos jovens uma ferramenta dinâmica e envolvente para explorar seus talentos e aptidões. Em um momento crucial de escolha e definição de caminhos, muitos se sentem perdidos e inseguros em relação ao futuro profissional. 
 Este projeto se propõe a ser um guia nessa jornada, utilizando uma abordagem que combina informação, interatividade e uma linguagem que dialoga diretamente com o universo jovem. 
 Objetivos: Autoconhecimento: Estimular a reflexão sobre habilidades, interesses e paixões, ajudando o jovem a identificar seus pontos fortes. 
